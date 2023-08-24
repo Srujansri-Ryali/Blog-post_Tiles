@@ -1,0 +1,7 @@
+
+6
+app.py,1\3\13cce7fd076299c81b4986166f3d822791c9490e
+C
+templates/home.html,8\6\86f3a00c4de0ad1280042b4c75ce3672e5141a0f
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
